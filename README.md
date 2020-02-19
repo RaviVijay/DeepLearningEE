@@ -38,3 +38,5 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Simulator Speed Up
 [Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
 
+[Paper](https://arxiv.org/pdf/2001.08055.pdf)
+
