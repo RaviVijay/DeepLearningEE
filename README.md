@@ -20,6 +20,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Analog Design
 
 [AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://arxiv.org/pdf/2001.01808.pdf)
+[Bagnet](https://arxiv.org/pdf/1907.10515.pdf)
 
 ## Verification
 
