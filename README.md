@@ -6,6 +6,10 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [ZDNet Article](https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/)
 
+## Heuristic Algorithms
+
+[Reinforcement Learning + Heuristics](https://arxiv.org/abs/1906.06639)
+
 ## Graph Algorithms
 
 [Generalized Clustering by Learning to Optimize Expected Normalized Cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=2ahUKEwiNzMiCyN7nAhVLnp4KHViWCQwQFjAEegQIBBAB&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DBklLVAEKvH&usg=AOvVaw0U5dvd6d7Ljt5a00BP75pq)
@@ -24,6 +28,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://arxiv.org/pdf/2001.01808.pdf)
 
 [Bagnet](https://arxiv.org/pdf/1907.10515.pdf)
+
+[Learning to Design Circuits](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA7o2s597nAhWJ_J4KHe7eBEMQFjAAegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1812.02734&usg=AOvVaw3kYDhsKJz696LQZbsziRHl)
 
 ## Verification
 
