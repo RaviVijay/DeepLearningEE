@@ -9,6 +9,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Graph Algorithms
 
 [Generalized Clustering by Learning to Optimize Expected Normalized Cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=2ahUKEwiNzMiCyN7nAhVLnp4KHViWCQwQFjAEegQIBBAB&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DBklLVAEKvH&usg=AOvVaw0U5dvd6d7Ljt5a00BP75pq)
+[GAP Partitioning Framework](https://arxiv.org/pdf/1903.00614.pdf)
 
 ## Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
@@ -20,6 +21,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Analog Design
 
 [AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://arxiv.org/pdf/2001.01808.pdf)
+
 [Bagnet](https://arxiv.org/pdf/1907.10515.pdf)
 
 ## Verification
