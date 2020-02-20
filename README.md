@@ -20,8 +20,16 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [GAP Partitioning Framework](https://arxiv.org/pdf/1903.00614.pdf)
 
+## Clustering
+
+[Generalized Clustering to Optimize Cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwip3sKD0uDnAhX3JTQIHYsZBP4QFjADegQIAxAB&url=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DBklLVAEKvH&usg=AOvVaw0pfiK6unK8hIoScaHZNnNM)
+
 ## Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
+
+## Floorplan
+
+[Routability Driven Macro Placement](https://research.nvidia.com/publication/2019-03_Routability-Driven-Macro-Placement)
 
 ## CTS
 
@@ -30,6 +38,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Routing
 
 [Nvidia's CongestionNet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjSraaZyN7nAhXMl54KHSaeB7YQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8920342&usg=AOvVaw1Qm_LGRETcKckgtYSZJcSO)
+
+[Deep Reinforcement Learning for Global Routing](https://arxiv.org/pdf/1906.08809.pdf)
 
 [Congestion Prediction using GANs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiS3ZX76d7nAhUNsp4KHdrXC9QQFjABegQIBRAB&url=http%3A%2F%2Fyibolin.com%2Fpublications%2Fpapers%2FFPGA_ASPDAC2020_Alawieh.pdf&usg=AOvVaw07ClbGw-AV3ePPjzNftM2y)
 
@@ -48,8 +58,16 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ## Verification
 
-[Nvidia's Deep Predictive Coverage Collection](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiIz5nyyN7nAhXDs54KHWzDA-AQFjABegQIBBAB&url=https%3A%2F%2Fdvcon.org%2Fsites%2Fdvcon.org%2Ffiles%2Ffiles%2F2018%2F06_1.pdf&usg=AOvVaw0ob9tXWFLn1MEWo8Qt4tCv)
+[Deep Predictive Coverage Collection(Nvidia)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiIz5nyyN7nAhXDs54KHWzDA-AQFjABegQIBBAB&url=https%3A%2F%2Fdvcon.org%2Fsites%2Fdvcon.org%2Ffiles%2Ffiles%2F2018%2F06_1.pdf&usg=AOvVaw0ob9tXWFLn1MEWo8Qt4tCv)
 
 ## Simulator Speed Up
+
 [Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)[Paper](https://arxiv.org/pdf/2001.08055.pdf)
 
+## Power Analysis
+
+[Power Inference](https://research.nvidia.com/sites/default/files/pubs/2019-06_PRIMAL%3A-Power-Inference//24_1_Zhou_PRIMAL.pdf)
+
+## Prefetch
+
+[Classifying Memory Access patterns for Prefetching](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjOnMXM0eDnAhWeJzQIHdy8DEEQFjAAegQIBBAB&url=https%3A%2F%2Feecs.oregonstate.edu%2Faidarc%2Fpaper%2FMAP.pdf&usg=AOvVaw0juTsq9YjD1tiUaM-OHV8u)
