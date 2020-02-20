@@ -10,6 +10,10 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [ISPD 2019](http://www.ispd.cc/contests/19/)
 
+## Metrics
+
+[Metrics 2.0](https://woset-workshop.github.io/PDFs/a21.pdf)
+
 ## Heuristic Algorithms
 
 [Reinforcement Learning + Heuristics](https://arxiv.org/abs/1906.06639)
@@ -63,6 +67,12 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Simulator Speed Up
 
 [Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)[Paper](https://arxiv.org/pdf/2001.08055.pdf)
+
+[Circuit Simulation Parallelization](https://arxiv.org/pdf/2002.05292.pdf)
+
+## STA
+
+[CSM with NN](https://arxiv.org/pdf/2002.05291.pdf)
 
 ## Power Analysis
 
