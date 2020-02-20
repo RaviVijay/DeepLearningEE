@@ -47,7 +47,5 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Nvidia's Deep Predictive Coverage Collection](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiIz5nyyN7nAhXDs54KHWzDA-AQFjABegQIBBAB&url=https%3A%2F%2Fdvcon.org%2Fsites%2Fdvcon.org%2Ffiles%2Ffiles%2F2018%2F06_1.pdf&usg=AOvVaw0ob9tXWFLn1MEWo8Qt4tCv)
 
 ## Simulator Speed Up
-[Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
-
-[Paper](https://arxiv.org/pdf/2001.08055.pdf)
+[Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)[Paper](https://arxiv.org/pdf/2001.08055.pdf)
 
