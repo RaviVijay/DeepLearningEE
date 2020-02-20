@@ -46,12 +46,23 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ## Digital Design
 
+### High Level Synthesis
+[Compiler Phase Ordering Using Reinforcement Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwivxLmi2uDnAhU5IjQIHV4CBfsQFjACegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1901.04615&usg=AOvVaw1FLdCWiVa8fEtGFFaWhz1u)
+
 ### Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
+[Approximate Logic Synth Using Reinforcement Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjL_qD62eDnAhVwIzQIHTYsB9MQFjACegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1902.00478&usg=AOvVaw3w5YeQNA_WqJYTa-tnQ6uC)
 
 ### Floorplan
 
 [Routability Driven Macro Placement](https://research.nvidia.com/publication/2019-03_Routability-Driven-Macro-Placement)
+
+[Memory Controller Placement](https://ieeexplore.ieee.org/document/8668490)
+
+### Placement
+
+[Legalization](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiAuICw2eDnAhUlJTQIHU1QAYwQFjAAegQIAxAB&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02057042%2Fdocument&usg=AOvVaw17bC4Z9Yk7cUwcAiG7Zvr3)
+[Presentation](http://www.ispd.cc/slides/2019/1_placement_HowDeep.pdf)
 
 ### CTS
 
