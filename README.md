@@ -12,9 +12,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Metrics
 [Metrics 2.0](https://woset-workshop.github.io/PDFs/a21.pdf)
 
-[OpenRoad Paper](http://people.ece.umn.edu/users/sachin/conf/gomactech19.pdf)
 ## Tools
 [OpenRoad](https://github.com/The-OpenROAD-Project)
+
 [OpenRoad Paper](http://people.ece.umn.edu/users/sachin/conf/gomactech19.pdf)
 
 ## Algorithms
