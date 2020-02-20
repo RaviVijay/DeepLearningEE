@@ -37,6 +37,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Learning to Design Circuits](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA7o2s597nAhWJ_J4KHe7eBEMQFjAAegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1812.02734&usg=AOvVaw3kYDhsKJz696LQZbsziRHl)
 
 ## Digital Design
+## DFT
+[GCN for Testability Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwi9p-3a3-DnAhUFOH0KHRgBCk8QFjABegQIBBAB&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F3316781.3317838&usg=AOvVaw25EDcXL4tc_LaQvcsyf_xP)
 ### Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
 
