@@ -27,7 +27,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [GAP Partitioning Framework](https://arxiv.org/pdf/1903.00614.pdf)
 
 ### Clustering
-[Generalized Clustering to Optimize Cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwip3sKD0uDnAhX3JTQIHYsZBP4QFjADegQIAxAB&url=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DBklLVAEKvH&usg=AOvVaw0pfiK6unK8hIoScaHZNnNM)
+[Generalized Clustering to Optimize Cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwip3sKD0uDnAhX3JTQIHYsZBP4QFjADegQIAxAB&url=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DBklLVAEKvH&usg=AOvVaw0pfiK6unK8hIoScaHZNnNM): [Code](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts)
 
 ## Simulator Speed Up
 [Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)[Paper](https://arxiv.org/pdf/2001.08055.pdf)
