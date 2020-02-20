@@ -92,6 +92,10 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Power Inference](https://research.nvidia.com/sites/default/files/pubs/2019-06_PRIMAL%3A-Power-Inference//24_1_Zhou_PRIMAL.pdf)
 
+### Variation Modeling
+
+[Variation Modeling](https://www.synopsys.com/zh-tw/taiwan/events/2019-elite-snug.html)
+
 ## Computer Architecture
 
 ### Literature Survey
