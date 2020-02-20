@@ -58,6 +58,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Memory Controller Placement](https://ieeexplore.ieee.org/document/8668490)
 
+[NOC Component Charecterization](https://www.arteris.com/blog/arteris-ip-at-synopsys-users-group-silicon-valley-2019)
+
 ### Placement
 [Legalization](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiAuICw2eDnAhUlJTQIHU1QAYwQFjAAegQIAxAB&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02057042%2Fdocument&usg=AOvVaw17bC4Z9Yk7cUwcAiG7Zvr3)
 [Presentation](http://www.ispd.cc/slides/2019/1_placement_HowDeep.pdf)
