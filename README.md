@@ -23,6 +23,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Nvidia's CongestionNet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjSraaZyN7nAhXMl54KHSaeB7YQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8920342&usg=AOvVaw1Qm_LGRETcKckgtYSZJcSO)
 
+[Congestion Prediction using GANs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiS3ZX76d7nAhUNsp4KHdrXC9QQFjABegQIBRAB&url=http%3A%2F%2Fyibolin.com%2Fpublications%2Fpapers%2FFPGA_ASPDAC2020_Alawieh.pdf&usg=AOvVaw07ClbGw-AV3ePPjzNftM2y)
+
 ## Analog Design
 
 [AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://arxiv.org/pdf/2001.01808.pdf)
