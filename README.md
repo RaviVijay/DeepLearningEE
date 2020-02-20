@@ -19,11 +19,20 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
 
+## CTS
+
+[GAN CTS](https://www.researchgate.net/profile/Anthony_Agnesina/publication/338370629_GAN-CTS_A_Generative_Adversarial_Framework_for_Clock_Tree_Prediction_and_Optimization/links/5e13233592851c8364b2964b/GAN-CTS-A-Generative-Adversarial-Framework-for-Clock-Tree-Prediction-and-Optimization.pdf)
+
 ## Routing
 
 [Nvidia's CongestionNet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjSraaZyN7nAhXMl54KHSaeB7YQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8920342&usg=AOvVaw1Qm_LGRETcKckgtYSZJcSO)
 
 [Congestion Prediction using GANs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiS3ZX76d7nAhUNsp4KHdrXC9QQFjABegQIBRAB&url=http%3A%2F%2Fyibolin.com%2Fpublications%2Fpapers%2FFPGA_ASPDAC2020_Alawieh.pdf&usg=AOvVaw07ClbGw-AV3ePPjzNftM2y)
+
+[Congestion Prediction using Conditional GANs](https://arxiv.org/pdf/1904.07077.pdf)
+
+[RouteNet](https://research.nvidia.com/sites/default/files/pubs/2018-11_RouteNet%3A-routability-prediction/a80-xie.pdf)
+
 
 ## Analog Design
 
