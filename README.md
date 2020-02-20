@@ -1,18 +1,20 @@
 # DeepLearningEE
 Collection of Papers and Trials on Deep Learning to aid EE design
 
-## Birds View
+# Birds View
 [Jeff Dean: The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design](https://arxiv.org/ftp/arxiv/papers/1911/1911.05289.pdf)
 
 [ZDNet Article](https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/)
 
-## Data
+# Data
 
 [ISPD 2019](http://www.ispd.cc/contests/19/)
 
-## Metrics
+# Metrics
 
 [Metrics 2.0](https://woset-workshop.github.io/PDFs/a21.pdf)
+
+# Algorithms
 
 ## Heuristic Algorithms
 
@@ -27,6 +29,16 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Clustering
 
 [Generalized Clustering to Optimize Cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwip3sKD0uDnAhX3JTQIHYsZBP4QFjADegQIAxAB&url=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DBklLVAEKvH&usg=AOvVaw0pfiK6unK8hIoScaHZNnNM)
+
+# Analog Design
+
+[AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://arxiv.org/pdf/2001.01808.pdf)
+
+[Bagnet](https://arxiv.org/pdf/1907.10515.pdf)
+
+[Learning to Design Circuits](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA7o2s597nAhWJ_J4KHe7eBEMQFjAAegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1812.02734&usg=AOvVaw3kYDhsKJz696LQZbsziRHl)
+
+# Digital Design
 
 ## Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
@@ -52,13 +64,6 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [RouteNet](https://research.nvidia.com/sites/default/files/pubs/2018-11_RouteNet%3A-routability-prediction/a80-xie.pdf)
 
 
-## Analog Design
-
-[AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://arxiv.org/pdf/2001.01808.pdf)
-
-[Bagnet](https://arxiv.org/pdf/1907.10515.pdf)
-
-[Learning to Design Circuits](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA7o2s597nAhWJ_J4KHe7eBEMQFjAAegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1812.02734&usg=AOvVaw3kYDhsKJz696LQZbsziRHl)
 
 ## Verification
 
@@ -77,6 +82,11 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Power Analysis
 
 [Power Inference](https://research.nvidia.com/sites/default/files/pubs/2019-06_PRIMAL%3A-Power-Inference//24_1_Zhou_PRIMAL.pdf)
+
+# Computer Architecture
+
+## Literature Survey
+[Survey 2019](https://arxiv.org/pdf/1909.12373.pdf)
 
 ## Prefetch
 
