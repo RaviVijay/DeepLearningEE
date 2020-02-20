@@ -46,8 +46,6 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ## Digital Design
 
-### High Level Synthesis
-[Compiler Phase Ordering Using Reinforcement Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwivxLmi2uDnAhU5IjQIHV4CBfsQFjACegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1901.04615&usg=AOvVaw1FLdCWiVa8fEtGFFaWhz1u)
 
 ### Synthesis
 [Improving SAT Solvers](https://arxiv.org/abs/1909.11830)
@@ -102,3 +100,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ### Prefetch
 
 [Classifying Memory Access patterns for Prefetching](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjOnMXM0eDnAhWeJzQIHdy8DEEQFjAAegQIBBAB&url=https%3A%2F%2Feecs.oregonstate.edu%2Faidarc%2Fpaper%2FMAP.pdf&usg=AOvVaw0juTsq9YjD1tiUaM-OHV8u)
+
+## Compilers
+
+[Compiler Phase Ordering Using Reinforcement Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwivxLmi2uDnAhU5IjQIHV4CBfsQFjACegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1901.04615&usg=AOvVaw1FLdCWiVa8fEtGFFaWhz1u)
+
