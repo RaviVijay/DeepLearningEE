@@ -15,6 +15,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Tools
 [OpenRoad](https://github.com/The-OpenROAD-Project)
 
+[Park Platform for Reinforcement Learning in Systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Park+platform+reinforcement+learning+Mao&btnG=)
+
 [OpenRoad Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenROAD%3A+Toward+a+Self-Driving%2C+Open-SourceDigital+Layout+Implementation+Tool+Chain&btnG=)
 
 [Quantum Circuit Optimization](https://github.com/google-research/google-research/tree/master/rl4circopt)
@@ -46,6 +48,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Learning to Design Circuits](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22learning+to+design+circuits%22&btnG=&oq=learning+to+desig)
 
 [Magical](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MAGICAL%3A+Toward+Fully+Automated+Analog+ICLayout+Leveraging+Human+and+Machine+Intelligence&btnG=)
+
+[Differential Simulator](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ELECTRIC+ANALOG+CIRCUIT+DESIGN+WITH+HYPERNETWORKS+AND+A+DIFFERENTIAL+SIMULATOR&btnG=)
 
 ## Digital Design
 ## DFT
@@ -99,6 +103,5 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ### Prefetch
 [Classifying Memory Access patterns for Prefetching](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Understanding+Memory+Access+Patterns+for+Prefetching&btnG=)
 
-## Compilers
-[Compiler Phase Ordering Using Reinforcement Learning](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=5412909923558109998&scipsc=&q=AutoPhase%3A+Compiler+Phase-Ordering+for+HLS+withDeep+Reinforcement+Learning&btnG=)
-
+## Power Modeling
+[Learning based Power Modelling](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning-Based+CPU+Power+Modeling+ajay+krishna&btnG=)
