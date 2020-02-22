@@ -14,10 +14,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ## Tools
 [OpenRoad](https://github.com/The-OpenROAD-Project)
+[OpenRoad Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenROAD%3A+Toward+a+Self-Driving%2C+Open-SourceDigital+Layout+Implementation+Tool+Chain&btnG=)
 
 [Park Platform for Reinforcement Learning in Systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Park+platform+reinforcement+learning+Mao&btnG=)
-
-[OpenRoad Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenROAD%3A+Toward+a+Self-Driving%2C+Open-SourceDigital+Layout+Implementation+Tool+Chain&btnG=)
 
 [Quantum Circuit Optimization](https://github.com/google-research/google-research/tree/master/rl4circopt)
 
