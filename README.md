@@ -28,7 +28,6 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Generalized Clustering by Learning to Optimize Expected Normalized Cuts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generalized+Clustering+by+Learning+to+Optimize+Expected+Normalized+Cuts&btnG=)
 
 [GAP Partitioning Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gap+generalizable+partitioning+framework&btnG=)
-
 [Deep Learning Framework for Graph Partitioning(GAP)](https://rlgm.github.io/papers/41.pdf)
 
 ### Clustering
