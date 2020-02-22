@@ -7,7 +7,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [ZDNet Article](https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/)
 
 ## Data
-[ISPD 2019](http://www.ispd.cc/contests/19/)
+[ISPD](http://www.ispd.cc/contests/19/)
 
 ## Metrics
 [Metrics 2.0](https://woset-workshop.github.io/PDFs/a21.pdf)
