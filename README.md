@@ -39,6 +39,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Circuit Simulation Parallelization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=NN-PARS%3A+A+Parallelized+Neural+Network+BasedCircuit+Simulation+Framework&btnG=)
 
 ## Analog Design
+[Agent Training Framework For Analog Design](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=756184528877571987&scipsc=&q=An+Agent-Training+Framework+for+Coping+with+Environmentswith+Slow+Simulators+that+have+Fast+Approximations&btnG=)
+
 [AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutoCkt%3A+Deep+Reinforcement+Learning+of+AnalogCircuit+Designs&btnG=)
 
 [Bagnet](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=bagnet+berkeley+analog&btnG=)
