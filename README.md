@@ -67,6 +67,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [NOC Component Charecterization](https://www.arteris.com/blog/arteris-ip-at-synopsys-users-group-silicon-valley-2019)
 
 ### Placement
+[Chip Placement with DRL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Chip+Placement+with+Deep+Reinforcement+Learning&btnG=)
+
 [Placement Optimization using DRL](https://scholar.google.com/scholar?q=Placement+Optimization+with+Deep+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 [Legalization](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=17370600981447306812&scipsc=&q=How+Deep+Learning+Can+Drive+Physical+SynthesisTowards+More+Predictable+Legalization&btnG=)
