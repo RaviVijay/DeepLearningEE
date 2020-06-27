@@ -51,6 +51,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Differential Simulator](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ELECTRIC+ANALOG+CIRCUIT+DESIGN+WITH+HYPERNETWORKS+AND+A+DIFFERENTIAL+SIMULATOR&btnG=)
 
+[GCN-RL](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9647065262913064608&scipsc=&q=GCN-RL+Circuit+Designer%3A+Transferable+Transistor+Sizing+with+Graph+Neural+Networks+and+Reinforcement+Learning&btnG=)
+
 ## Digital Design
 ## DFT
 [GCN for Testability Analysis](https://scholar.google.com/scholar?q=High+Performance+Graph+Convolutional+Networks+with+Applications+in+Testability+Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
