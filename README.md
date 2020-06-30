@@ -55,6 +55,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [GCN-RL](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9647065262913064608&scipsc=&q=GCN-RL+Circuit+Designer%3A+Transferable+Transistor+Sizing+with+Graph+Neural+Networks+and+Reinforcement+Learning&btnG=)
 
+[Placement Quality Prediction using Transfer Learning](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=763066188181261234&scipsc=&q=Towards+Decrypting+the+Art+of+Analog+Layout%3A+Placement+Quality+Prediction+via+Transfer+Learning&btnG=)
+
 ## Digital Design
 ## DFT
 [GCN for Testability Analysis](https://scholar.google.com/scholar?q=High+Performance+Graph+Convolutional+Networks+with+Applications+in+Testability+Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
