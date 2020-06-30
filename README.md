@@ -25,6 +25,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Reinforcement Learning + Heuristics](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
 
 ### Graph Algorithms
+[Understanding Graphs in EDA](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Understanding+Graphs+in+EDA%3A+From+Shallow+to+Deep+Learning&btnG=)
+
 [Generalized Clustering by Learning to Optimize Expected Normalized Cuts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generalized+Clustering+by+Learning+to+Optimize+Expected+Normalized+Cuts&btnG=)
 
 [GAP Partitioning Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gap+generalizable+partitioning+framework&btnG=)
