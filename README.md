@@ -111,6 +111,10 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Variation Modeling](https://www.synopsys.com/zh-tw/taiwan/events/2019-elite-snug.html)
 
 ## Computer Architecture
+
+### DVFS
+[Data Driven DVFS Schedule for GPU](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Data-Driven+Frequency+Scaling+Approach+for+Deadline-aware+Energy+Efficient+Scheduling+on+Graphics+Processing+Units+&btnG=)
+
 ### Literature Survey
 [Survey 2019](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=15879332215242804597&scipsc=&q=A+Survey+of+Machine+Learning+Applied+toComputer+Architecture+Design&btnG=)
 
