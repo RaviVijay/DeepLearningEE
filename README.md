@@ -63,6 +63,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## DFT
 [GCN for Testability Analysis](https://scholar.google.com/scholar?q=High+Performance+Graph+Convolutional+Networks+with+Applications+in+Testability+Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 ### Synthesis
+
+[Deep-PowerX Low Power Approximation Synthesis](https://arxiv.org/pdf/2007.01465.pdf)
 [Improving SAT Solvers](https://scholar.google.com/scholar?q=Improving+SAT+Solver+Heuristics+with+Graph+Networks+and+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 [Approximate Logic Synth Using Reinforcement Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Approximate+Logic+Synthesis%3A+A+ReinforcementLearning-Based+Technology+Mapping+Approach&btnG=)
