@@ -117,5 +117,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ### Prefetch
 [Classifying Memory Access patterns for Prefetching](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Understanding+Memory+Access+Patterns+for+Prefetching&btnG=)
 
+### Cache Replacement
+[Imitation Learning for Cache Replacement](https://scholar.google.com/scholar?q=An+Imitation+Learning+Approach+for+Cache+Replacement+Show+affiliations&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
 ## Power Modeling
 [Learning based Power Modelling](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning-Based+CPU+Power+Modeling+ajay+krishna&btnG=)
