@@ -101,6 +101,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [RouteNet](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=2856161563400953511&scipsc=&q=RouteNet%3A+Routability+Prediction+for+Mixed-Size+Designs+UsingConvolutional+Neural+Network&btnG=)
 
+### Route Coloring
+[Coloring: Adaptive Layout Decomposition](https://scholar.google.com/scholar?q=Adaptive+Layout+Decomposition+with+Graph+Embedding+Neural+Networks&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
 ### Verification
 [Deep Predictive Coverage Collection(Nvidia)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9658564771958204517&scipsc=&q=Deep+Predictive+Coverage+Collection&btnG=)
 
