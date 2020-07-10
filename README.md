@@ -114,6 +114,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ### Power Analysis
 [Power Modeling and Estimation Survey 2020](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=15879332215242804597&scipsc=&q=RTL+to+Transistor+Level+Power+Modelling+and+Estimation+Techniques+for+FPGA+and+ASIC%3A+A+Survey&btnG=)
+
 [Power Inference](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PRIMAL%3A+Power+Inference+using+Machine+Learning&btnG=)
 
 ### Variation Modeling
