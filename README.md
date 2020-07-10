@@ -91,6 +91,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [GAN CTS](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GAN-CTS%3A+A+Generative+Adversarial+Frameworkfor+Clock+Tree+Prediction+and+Optimization&btnG=)
 
 ### Routing
+[Attention Based RL for Track Assign + Detail Routing(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention+Routing%3A+track-assignment+detailed+routing+using+attention-based+reinforcement+learning&btnG=)
+
 [Cadence's Paper](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=48959924429183440&scipsc=&q=ATTENTION+ROUTING%3A+TRACK-ASSIGNMENT+DETAILED+ROUTING+USING+ATTENTION-BASED+REINFORCEMENT+LEARNING&btnG=)
 
 [Nvidia's CongestionNet](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=3871127596313851353&scipsc=&q=+CongestionNet%3A+Routing+Congestion+Prediction+Using+Deep+Graph+Neural+Networks+&btnG=)
