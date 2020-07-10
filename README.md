@@ -21,6 +21,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Quantum Circuit Optimization](https://github.com/google-research/google-research/tree/master/rl4circopt)
 
 ## Algorithms
+[Survey of DL for Scientific Discovery](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
+
 ### Heuristic Algorithms
 [Reinforcement Learning + Heuristics](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
 
