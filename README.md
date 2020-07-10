@@ -103,6 +103,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [RouteNet](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=2856161563400953511&scipsc=&q=RouteNet%3A+Routability+Prediction+for+Mixed-Size+Designs+UsingConvolutional+Neural+Network&btnG=)
 
+[Pin Accessibility Prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pin+accessibility+prediction+and+optimization+with+deep+learning-based+pin+pattern+recognition&btnG=)
+
 ### Route Coloring
 [Coloring: Adaptive Layout Decomposition](https://scholar.google.com/scholar?q=Adaptive+Layout+Decomposition+with+Graph+Embedding+Neural+Networks&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
