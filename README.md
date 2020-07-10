@@ -105,8 +105,12 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Pin Accessibility Prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pin+accessibility+prediction+and+optimization+with+deep+learning-based+pin+pattern+recognition&btnG=)
 
+[Ckt Routing using Monte Carlo Tree Search and DL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Circuit+Routing+Using+Monte+Carlo+Tree+Search+and+Deep+Neural+Networks&btnG=)
+
 ### Route Coloring
 [Coloring: Adaptive Layout Decomposition](https://scholar.google.com/scholar?q=Adaptive+Layout+Decomposition+with+Graph+Embedding+Neural+Networks&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
+[DL Driven Decompostion & Mask Optimization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Learning-Driven+Simultaneous+Layout+Decomposition+and+Mask+Optimization&btnG=)
 
 ### Verification
 [Deep Predictive Coverage Collection(Nvidia)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9658564771958204517&scipsc=&q=Deep+Predictive+Coverage+Collection&btnG=)
@@ -121,6 +125,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ### Variation Modeling
 [Variation Modeling](https://www.synopsys.com/zh-tw/taiwan/events/2019-elite-snug.html)
+
+## Manufacturing
+[Defect Prediction in PCBs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Deep+Learning+Framework+for+Simulation+and+DefectPrediction+Applied+in+Microelectronics&btnG=)
 
 ## Computer Architecture
 
