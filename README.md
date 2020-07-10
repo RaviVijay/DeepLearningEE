@@ -38,7 +38,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Generalized Clustering to Optimize Cuts](https://openreview.net/forum?id=BklLVAEKvH) :::: [Code](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts)
 
 ## Simulator Speed Up
-[Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)[Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Up+to+two+billion+times+acceleration+of+scientific+simulationswith+deep+neural+architecture+search&btnG=)
+[Billion Times](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times) :: [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Up+to+two+billion+times+acceleration+of+scientific+simulationswith+deep+neural+architecture+search&btnG=)
 
 [Circuit Simulation Parallelization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=NN-PARS%3A+A+Parallelized+Neural+Network+BasedCircuit+Simulation+Framework&btnG=)
 
