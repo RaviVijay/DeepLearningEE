@@ -65,6 +65,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## DFT
 [GCN for Testability Analysis](https://scholar.google.com/scholar?q=High+Performance+Graph+Convolutional+Networks+with+Applications+in+Testability+Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 ### Synthesis
+[New Full Adders using MLP(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=18056219889831816110&scipsc=&q=New+full+adders+using+multi-layer+perceptron+network&btnG=)
 
 [LSOracle: Synthesis Framework Driven by AI(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=18056219889831816110&scipsc=&q=+LSOracle%3A+a+Logic+Synthesis+Framework+Driven+by+Artificial+Intelligence%3A+Invited+Paper+&btnG=)
 
