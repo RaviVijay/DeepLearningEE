@@ -126,7 +126,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ### Variation Modeling
 [Variation Modeling](https://www.synopsys.com/zh-tw/taiwan/events/2019-elite-snug.html)
 
-## Manufacturing
+### Manufacturing
 [Defect Prediction in PCBs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Deep+Learning+Framework+for+Simulation+and+DefectPrediction+Applied+in+Microelectronics&btnG=)
 
 ## Computer Architecture
@@ -139,6 +139,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ### Prefetch
 [Classifying Memory Access patterns for Prefetching](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Understanding+Memory+Access+Patterns+for+Prefetching&btnG=)
+
+[LSTM Based Prefetcher Thesis 2017](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=long+short+term+based+memory+hardware+prefetcher&btnG=)
 
 ### Cache Replacement
 [Imitation Learning for Cache Replacement](https://scholar.google.com/scholar?q=An+Imitation+Learning+Approach+for+Cache+Replacement+Show+affiliations&hl=en&as_sdt=0&as_vis=1&oi=scholart)
