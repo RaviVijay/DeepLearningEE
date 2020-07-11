@@ -13,8 +13,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Metrics 2.0](https://woset-workshop.github.io/PDFs/a21.pdf)
 
 ## Tools
-[OpenRoad](https://github.com/The-OpenROAD-Project)
-[OpenRoad Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenROAD%3A+Toward+a+Self-Driving%2C+Open-SourceDigital+Layout+Implementation+Tool+Chain&btnG=)
+[OpenRoad](https://github.com/The-OpenROAD-Project) :: [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenROAD%3A+Toward+a+Self-Driving%2C+Open-SourceDigital+Layout+Implementation+Tool+Chain&btnG=)
 
 [Park Platform for Reinforcement Learning in Systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Park+platform+reinforcement+learning+Mao&btnG=)
 
@@ -31,8 +30,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Generalized Clustering by Learning to Optimize Expected Normalized Cuts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generalized+Clustering+by+Learning+to+Optimize+Expected+Normalized+Cuts&btnG=)
 
-[GAP Partitioning Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gap+generalizable+partitioning+framework&btnG=)
-[Deep Learning Framework for Graph Partitioning(GAP)](https://rlgm.github.io/papers/41.pdf)
+[GAP Partitioning Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gap+generalizable+partitioning+framework&btnG=) :: [Deep Learning Framework for Graph Partitioning(GAP)](https://rlgm.github.io/papers/41.pdf)
 
 ### Clustering
 [Generalized Clustering to Optimize Cuts](https://openreview.net/forum?id=BklLVAEKvH) :::: [Code](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts)
