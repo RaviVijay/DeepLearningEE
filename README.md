@@ -111,6 +111,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Fast PI Classifier](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning+based+fast+power+integrity+classifier&btnG=)
 
 ### Floorplan
+[Solving Packing Problems by Conditional Query Learning(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=17171504097257349537&scipsc=&q=Solving+Packing+Problems+by+Conditional+Query+Learning&btnG=)
+
 [Routability Driven Macro Placement](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routability+Driven+Macro+Placement+nvidia&btnG=)
 
 [Memory Controller Placement(2019)](https://iehttps://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2019&q=+Design+Space+Exploration+of+Memory+Controller+Placement+in+Throughput+Processors+with+Deep+Learning+&btnG=eexplore.ieee.org/document/8668490)
