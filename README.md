@@ -1,5 +1,5 @@
 # DeepLearningEE
-Collection of Papers and Trials on Deep Learning to aid EE design
+Collection of Papers on Deep Learning to aid EE design
 
 ## Birds View
 [Jeff Dean: The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design](https://arxiv.org/ftp/arxiv/papers/1911/1911.05289.pdf)::[ZDNet Article](https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/)
