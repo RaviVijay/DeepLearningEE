@@ -22,6 +22,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Algorithms
 [Survey of DL for Scientific Discovery](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
 
+[End-to-End DRL in Computer Systems(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=End-to-end+deep+reinforcement+learning+in+computer+systems&btnG=)
+
 ### Heuristic Algorithms
 [Reinforcement Learning + Heuristics](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
 
@@ -62,6 +64,10 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Digital Design
 ## DFT
 [GCN for Testability Analysis](https://scholar.google.com/scholar?q=High+Performance+Graph+Convolutional+Networks+with+Applications+in+Testability+Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
+### HLS
+[AutoPhase: Phase Ordering for HLS using DRL(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=autophase+high+level+synthesis)
+
 ### Synthesis
 [New Full Adders using MLP(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=18056219889831816110&scipsc=&q=New+full+adders+using+multi-layer+perceptron+network&btnG=)
 
@@ -74,6 +80,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Improving SAT Solvers](https://scholar.google.com/scholar?q=Improving+SAT+Solver+Heuristics+with+Graph+Networks+and+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 [Approximate Logic Synth Using Reinforcement Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Approximate+Logic+Synthesis%3A+A+ReinforcementLearning-Based+Technology+Mapping+Approach&btnG=)
+
+[Perf. Esti of Synth Flows using LSTM & Transfer Learning](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=performance+estimation+of+synthesis+flows+using+LSTM&btnG=)
 
 ### Floorplan
 [Routability Driven Macro Placement](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routability+Driven+Macro+Placement+nvidia&btnG=)
