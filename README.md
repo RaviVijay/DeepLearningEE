@@ -12,6 +12,8 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Thesis: New Applications of Learning-Based Modeling in Nanoscale Integrated-Circuit Design(2016)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=New+Applications+of+Learning-Based+Modeling+in+Nanoscale+Integrated-Circuit+Design&btnG=)
 
+[Thesis: Low Power EDA(2006)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Low+Power+Design+Automation+chinnery&btnG=)
+
 ## Data
 [ISPD](http://www.ispd.cc/contests/19/)
 
@@ -156,6 +158,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 ### Package
 [Automatically Designed EBG](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9848414990295400109&scipsc=&q=+A+Novel+Automatically+Designed+EBG+Structure+by+Improved+GA+for+Ultrawideband+SSN+Mitigation+of+System+in+Package+&btnG=)
+
+### Reliability
+[predict vlsi circuit reliability risks using neural network(2014)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=predict+vlsi+circuit+reliability+risks+using+neural+network&btnG=)
 
 ### Power Analysis
 [Power Modeling and Estimation Survey 2020](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=15879332215242804597&scipsc=&q=RTL+to+Transistor+Level+Power+Modelling+and+Estimation+Techniques+for+FPGA+and+ASIC%3A+A+Survey&btnG=)
