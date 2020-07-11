@@ -20,9 +20,11 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Quantum Circuit Optimization](https://github.com/google-research/google-research/tree/master/rl4circopt)
 
 ## Algorithms
-[Survey of DL for Scientific Discovery](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
+[Survey of DL for Scientific Discovery(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
 
 [Tech. Report : End-to-End DRL in Computer Systems(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=End-to-end+deep+reinforcement+learning+in+computer+systems&btnG=)
+
+[Machine Learning for Engineering(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2016&q=machine+learning+for+engineering+solido&btnG=)
 
 ### Heuristic Algorithms
 [Reinforcement Learning + Heuristics](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
@@ -32,7 +34,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Generalized Clustering by Learning to Optimize Expected Normalized Cuts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generalized+Clustering+by+Learning+to+Optimize+Expected+Normalized+Cuts&btnG=)
 
-[GAP Partitioning Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gap+generalizable+partitioning+framework&btnG=) :: [Deep Learning Framework for Graph Partitioning(GAP)](https://rlgm.github.io/papers/41.pdf)
+[GAP Partitioning Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=gap+generalizable+partitioning+framework&btnG=) :: [Deep Learning Framework for Graph Partitioning(GAP)(2019)](https://rlgm.github.io/papers/41.pdf)
 
 ### Clustering
 [Generalized Clustering to Optimize Cuts](https://openreview.net/forum?id=BklLVAEKvH) :::: [Code](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts)
@@ -77,11 +79,11 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Deep-PowerX Low Power Approximation Synthesis](https://arxiv.org/pdf/2007.01465.pdf)
 
-[Improving SAT Solvers](https://scholar.google.com/scholar?q=Improving+SAT+Solver+Heuristics+with+Graph+Networks+and+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+[Improving SAT Solvers(2019)](https://scholar.google.com/scholar?q=Improving+SAT+Solver+Heuristics+with+Graph+Networks+and+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 [Approximate Logic Synth Using Reinforcement Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Approximate+Logic+Synthesis%3A+A+ReinforcementLearning-Based+Technology+Mapping+Approach&btnG=)
 
-[Perf. Esti of Synth Flows using LSTM & Transfer Learning](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=performance+estimation+of+synthesis+flows+using+LSTM&btnG=)
+[Perf. Esti of Synth Flows using LSTM & Transfer Learning(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=performance+estimation+of+synthesis+flows+using+LSTM&btnG=)
 
 ### Floorplan
 [Routability Driven Macro Placement](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routability+Driven+Macro+Placement+nvidia&btnG=)
