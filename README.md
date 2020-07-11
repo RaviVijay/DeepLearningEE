@@ -22,7 +22,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 ## Algorithms
 [Survey of DL for Scientific Discovery](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
 
-[End-to-End DRL in Computer Systems(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=End-to-end+deep+reinforcement+learning+in+computer+systems&btnG=)
+[Tech. Report : End-to-End DRL in Computer Systems(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=End-to-end+deep+reinforcement+learning+in+computer+systems&btnG=)
 
 ### Heuristic Algorithms
 [Reinforcement Learning + Heuristics](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
