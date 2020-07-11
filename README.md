@@ -112,6 +112,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [DL Driven Decompostion & Mask Optimization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Learning-Driven+Simultaneous+Layout+Decomposition+and+Mask+Optimization&btnG=)
 
+### Power Integrity
+[Fast PI Classifier](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning+based+fast+power+integrity+classifier&btnG=)
+
 ### Verification
 [Deep Predictive Coverage Collection(Nvidia)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9658564771958204517&scipsc=&q=Deep+Predictive+Coverage+Collection&btnG=)
 
