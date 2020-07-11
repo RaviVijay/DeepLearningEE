@@ -2,9 +2,15 @@
 Collection of Papers and Trials on Deep Learning to aid EE design
 
 ## Birds View
-[Jeff Dean: The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design](https://arxiv.org/ftp/arxiv/papers/1911/1911.05289.pdf)
+[Jeff Dean: The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design](https://arxiv.org/ftp/arxiv/papers/1911/1911.05289.pdf)::[ZDNet Article](https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/)
 
-[ZDNet Article](https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/)
+[Survey of DL for Scientific Discovery(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
+
+[Tech. Report : End-to-End DRL in Computer Systems(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=End-to-end+deep+reinforcement+learning+in+computer+systems&btnG=)
+
+[Machine Learning for Engineering(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2016&q=machine+learning+for+engineering+solido&btnG=)
+
+[Thesis: New Applications of Learning-Based Modeling in Nanoscale Integrated-Circuit Design(2016)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=New+Applications+of+Learning-Based+Modeling+in+Nanoscale+Integrated-Circuit+Design&btnG=)
 
 ## Data
 [ISPD](http://www.ispd.cc/contests/19/)
@@ -20,14 +26,6 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Quantum Circuit Optimization](https://github.com/google-research/google-research/tree/master/rl4circopt)
 
 ## Algorithms
-[Survey of DL for Scientific Discovery(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=1635875132167322453&scipsc=&q=A+survey+of+deep+learning+for+scientific+discovery&btnG=)
-
-[Tech. Report : End-to-End DRL in Computer Systems(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=End-to-end+deep+reinforcement+learning+in+computer+systems&btnG=)
-
-[Machine Learning for Engineering(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2016&q=machine+learning+for+engineering+solido&btnG=)
-
-[Thesis: New Applications of Learning-Based Modeling in Nanoscale Integrated-Circuit Design(2016)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=New+Applications+of+Learning-Based+Modeling+in+Nanoscale+Integrated-Circuit+Design&btnG=)
-
 ### Heuristic Algorithms
 [Reinforcement Learning + Heuristics(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
 
