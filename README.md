@@ -26,8 +26,10 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Machine Learning for Engineering(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2016&q=machine+learning+for+engineering+solido&btnG=)
 
+[Thesis: New Applications of Learning-Based Modeling in Nanoscale Integrated-Circuit Design(2016)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=New+Applications+of+Learning-Based+Modeling+in+Nanoscale+Integrated-Circuit+Design&btnG=)
+
 ### Heuristic Algorithms
-[Reinforcement Learning + Heuristics](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
+[Reinforcement Learning + Heuristics(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
 
 ### Graph Algorithms
 [Understanding Graphs in EDA](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Understanding+Graphs+in+EDA%3A+From+Shallow+to+Deep+Learning&btnG=)
@@ -51,9 +53,9 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [AutoCkt: Deep Reinforcement Learning of AnalogCircuit Designs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutoCkt%3A+Deep+Reinforcement+Learning+of+AnalogCircuit+Designs&btnG=)
 
-[Bagnet](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=bagnet+berkeley+analog&btnG=)
+[Bagnet(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=bagnet+berkeley+analog&btnG=)
 
-[Learning to Design Circuits](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22learning+to+design+circuits%22&btnG=&oq=learning+to+desig)
+[Learning to Design Circuits(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22learning+to+design+circuits%22&btnG=&oq=learning+to+desig)
 
 [Magical](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MAGICAL%3A+Toward+Fully+Automated+Analog+ICLayout+Leveraging+Human+and+Machine+Intelligence&btnG=)
 
@@ -64,7 +66,11 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 [Placement Quality Prediction using Transfer Learning](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=763066188181261234&scipsc=&q=Towards+Decrypting+the+Art+of+Analog+Layout%3A+Placement+Quality+Prediction+via+Transfer+Learning&btnG=)
 
 ## Digital Design
-## DFT
+
+### Standard Cells
+[Generating power-optimal std cell lib spec using NN(2017)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Generating+power-optimal+standard+cell+library+specification+using+neural+network+technique+&btnG=)
+
+### DFT
 [GCN for Testability Analysis](https://scholar.google.com/scholar?q=High+Performance+Graph+Convolutional+Networks+with+Applications+in+Testability+Analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 ### HLS
@@ -81,14 +87,33 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Improving SAT Solvers(2019)](https://scholar.google.com/scholar?q=Improving+SAT+Solver+Heuristics+with+Graph+Networks+and+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
-[Approximate Logic Synth Using Reinforcement Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Approximate+Logic+Synthesis%3A+A+ReinforcementLearning-Based+Technology+Mapping+Approach&btnG=)
+[Approximate Logic Synth Using Reinforcement Learning(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Approximate+Logic+Synthesis%3A+A+ReinforcementLearning-Based+Technology+Mapping+Approach&btnG=)
 
 [Perf. Esti of Synth Flows using LSTM & Transfer Learning(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=6073538280506520373&scipsc=&q=performance+estimation+of+synthesis+flows+using+LSTM&btnG=)
+
+[Cadence: A Learning Bridge from Arch. Synthesis to PD for Exploring Power Efficient High-Performance Adders(2017)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Learning+Bridge+from+Architectural+Synthesis+to+PhysicalDesign+for+Exploring+Power+Efficient+High-Performance+Adde&btnG=)
+
+[Cadence, Intel: Cross-layer Optimization for High Speed Adders:A Pareto Driven Machine Learning Approach(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cross-layer+Optimization+for+High+Speed+Adders%3AA+Pareto+Driven+Machine+Learning+Approach&btnG=)
+
+### Power Grid + Integrity
+[PowerPlanningDL: Reliability-Aware Framework for PGD using DL(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PowerPlanningDL%3A+Reliability-Aware+Framework+forOn-Chip+Power+Grid+Design+using+Deep+Learning&btnG=)
+
+[Template-based PDN Synthesis in Floorplan and PlacementUsing Classifier and CNN Techniques(2020)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Template-based+PDN+Synthesis+in+Floorplan+and+PlacementUsing+Classifier+and+CNN+Techniques&btnG=)
+
+[IncPIRD: Fast Learning-Based Prediction of Incremental IR Drop(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IncPIRD%3A+Fast+Learning-Based+Prediction+of+Incremental+IR+Drop&btnG=)
+
+[IR-aware Power Net Routing for Multi-Voltage Mixed-Signal Design(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IR-aware+Power+Net+Routing+for+Multi-VoltageMixed-Signal+Design&btnG=)
+
+[Generating Routing Driven Power Distribution n/w using ML Techniques(2017)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2016&q=generating+routing+driven+power+distribution+networks&btnG=)
+
+[PDN Simplifier(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+An+Approach+for+PDN+Simplification+of+a+Mobile+Processor+&btnG=)
+
+[Fast PI Classifier](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning+based+fast+power+integrity+classifier&btnG=)
 
 ### Floorplan
 [Routability Driven Macro Placement](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routability+Driven+Macro+Placement+nvidia&btnG=)
 
-[Memory Controller Placement](https://iehttps://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2019&q=+Design+Space+Exploration+of+Memory+Controller+Placement+in+Throughput+Processors+with+Deep+Learning+&btnG=eexplore.ieee.org/document/8668490)
+[Memory Controller Placement(2019)](https://iehttps://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2019&q=+Design+Space+Exploration+of+Memory+Controller+Placement+in+Throughput+Processors+with+Deep+Learning+&btnG=eexplore.ieee.org/document/8668490)
 
 [NOC Component Charecterization](https://www.arteris.com/blog/arteris-ip-at-synopsys-users-group-silicon-valley-2019)
 
@@ -97,7 +122,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Placement Optimization using DRL](https://scholar.google.com/scholar?q=Placement+Optimization+with+Deep+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
-[Legalization](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=17370600981447306812&scipsc=&q=How+Deep+Learning+Can+Drive+Physical+SynthesisTowards+More+Predictable+Legalization&btnG=)
+[Legalization(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=17370600981447306812&scipsc=&q=How+Deep+Learning+Can+Drive+Physical+SynthesisTowards+More+Predictable+Legalization&btnG=)
 [Presentation](http://www.ispd.cc/slides/2019/1_placement_HowDeep.pdf)
 
 ### CTS
@@ -114,7 +139,7 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [Congestion Prediction using Conditional GANs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Painting+on+Placement%3A+Forecasting+Routing+Congestion+usingConditional+Generative+Adversarial+Nets&btnG=)
 
-[RouteNet](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=2856161563400953511&scipsc=&q=RouteNet%3A+Routability+Prediction+for+Mixed-Size+Designs+UsingConvolutional+Neural+Network&btnG=)
+[RouteNet(2018)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=2856161563400953511&scipsc=&q=RouteNet%3A+Routability+Prediction+for+Mixed-Size+Designs+UsingConvolutional+Neural+Network&btnG=)
 
 [Pin Accessibility Prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pin+accessibility+prediction+and+optimization+with+deep+learning-based+pin+pattern+recognition&btnG=)
 
@@ -125,14 +150,14 @@ Collection of Papers and Trials on Deep Learning to aid EE design
 
 [DL Driven Decompostion & Mask Optimization](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Learning-Driven+Simultaneous+Layout+Decomposition+and+Mask+Optimization&btnG=)
 
-### Power Integrity
-[Fast PI Classifier](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning+based+fast+power+integrity+classifier&btnG=)
-
 ### Verification
 [Deep Predictive Coverage Collection(Nvidia)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9658564771958204517&scipsc=&q=Deep+Predictive+Coverage+Collection&btnG=)
 
 ### STA
 [CSM with NN](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=10619245689743073789&scipsc=&q=CSM-NN%3A+Current+Source+Model+Based+LogicCircuit+Simulation+-+A+Neural+Network+Approach&btnG=)
+
+### Package
+[Automatically Designed EBG](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=9848414990295400109&scipsc=&q=+A+Novel+Automatically+Designed+EBG+Structure+by+Improved+GA+for+Ultrawideband+SSN+Mitigation+of+System+in+Package+&btnG=)
 
 ### Power Analysis
 [Power Modeling and Estimation Survey 2020](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=15879332215242804597&scipsc=&q=RTL+to+Transistor+Level+Power+Modelling+and+Estimation+Techniques+for+FPGA+and+ASIC%3A+A+Survey&btnG=)
