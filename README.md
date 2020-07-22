@@ -27,6 +27,8 @@ Collection of Papers on Deep Learning to aid EE design
 
 [Quantum Circuit Optimization](https://github.com/google-research/google-research/tree/master/rl4circopt)
 
+[ChipKit: Agile Open Src Framework](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CHIPKIT%3A+An+agile%2C+reusable+open-source+framework+for+rapid+test+chip+development&btnG=)
+
 ## Algorithms
 ### Heuristic Algorithms
 [Reinforcement Learning + Heuristics(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reinforcement+Learning+Driven+Heuristic+Optimization&btnG=)
