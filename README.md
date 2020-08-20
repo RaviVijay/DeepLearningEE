@@ -174,6 +174,8 @@ Collection of Papers on Deep Learning to aid EE design
 ### Variation Modeling
 [Variation Modeling](https://www.synopsys.com/zh-tw/taiwan/events/2019-elite-snug.html)
 
+[Automatic tuning of a quantum device](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Machine+learning+enables+completely+automatictuning+of+a+quantum+device+faster+than+humanexperts&btnG=)
+
 ### Manufacturing
 [Defect Prediction in PCBs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Deep+Learning+Framework+for+Simulation+and+DefectPrediction+Applied+in+Microelectronics&btnG=)
 
