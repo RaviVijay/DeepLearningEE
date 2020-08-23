@@ -126,6 +126,8 @@ Collection of Papers on Deep Learning to aid EE design
 
 [Placement Optimization using DRL](https://scholar.google.com/scholar?q=Placement+Optimization+with+Deep+Reinforcement+Learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
+[DreamPlace 2](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DREAMPlace+2.0%3A+Open-Source+GPU-Accelerated+Global+and+Detailed+Placement+for+Large-Scale+VLSI+Designs&btnG=)
+
 [Legalization(2019)](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=17370600981447306812&scipsc=&q=How+Deep+Learning+Can+Drive+Physical+SynthesisTowards+More+Predictable+Legalization&btnG=)
 [Presentation](http://www.ispd.cc/slides/2019/1_placement_HowDeep.pdf)
 
