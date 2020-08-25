@@ -183,6 +183,9 @@ Collection of Papers on Deep Learning to aid EE design
 
 ## Computer Architecture
 
+### Resource Mngt
+[Resource Management of Heterogenous SoCs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Online+Adaptive+Learning+for+Runtime+Resource+Management+of+Heterogeneous+SoCs&btnG=)
+
 ### DVFS
 [Data Driven DVFS Schedule for GPU](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Data-Driven+Frequency+Scaling+Approach+for+Deadline-aware+Energy+Efficient+Scheduling+on+Graphics+Processing+Units+&btnG=)
 
